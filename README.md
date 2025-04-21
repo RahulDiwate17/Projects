@@ -2,12 +2,12 @@
 
 ### Dashboard Link : https://app.powerbi.com/view?r=eyJrIjoiMTQzZjUwODktYjkxMy00YzhhLTgzMGUtZDFkN2YzODkwZjE0IiwidCI6IjI2YmRlYzBjLTVjYmYtNGZjMy1iOTgxLTBlMGYxODI5YjRhOSJ9
 
-## Problem Statement
+## OverView 
 
 This dashboard helps the lenders to understand their customers better. This dashboard provides an overview of loan patterns across different borrower types. A few key takeaways from the visual:
 
 Loan Purpose: 
-Home and business loans dominate in terms of total amount borrowed, while “Other” categories account for the least.
+Home and business loans account for the majority of the total amount borrowed, while “Other” categories account for the least.
 
 Employment & Income: Full-time employees have the highest average income.
 Unemployed individuals have the lowest income and the highest default rate at 3.39%.
